@@ -302,6 +302,7 @@
 				52209FBA1CFE811700F0CAA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
