@@ -1,6 +1,9 @@
 # UIAlertView-By-Value
 UIAlertView使用Runtime机制实现传值
 
+
+百度经验：http://jingyan.baidu.com/article/48b558e32487bf7f38c09ab5.html
+
 ##代码
 
 ```
